@@ -19,4 +19,6 @@ Absent, because I am 16 and still studying
 * At the moment I have incomplete general education (I'm finishing 11th grade this year)
 * Free course on front-end development in *INTELLECT FOX*
 * Youtube video tutorials on website layout 
+## English
+A2 (I study in school at the basic level)
 
